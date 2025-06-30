@@ -1,6 +1,7 @@
 # am-i-ready-for-placement-
 
 1.  Section Aptitude
+ <br>
   Ratio  and Proportion |
   Speed , Distance and Time , |
   Time and Work , |
@@ -10,5 +11,5 @@
   Simple Interest |
 
 2 . Logical Reasoning <br>
-Statement and Conclusion  ,|  Blood Relation 
+ Statement and Conclusion  ,|  Blood Relation 
 
